@@ -28,7 +28,7 @@
 
 华中科技大学计算机系本科在读
 
-undergraduate from CS department in HUST(Huazhong University of Science and Technology)
+undergraduate from CS department of HUST(Huazhong University of Science and Technology)
 
 ---------------------------------------------------------------------------------------
 
