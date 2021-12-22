@@ -16,7 +16,7 @@
 
   1.Qt6 任意版本均可编译，Qt5以及之前的版本没试过，应该也没问题，用到的类比较基础，应该都是通用的。
   
-  2.用Qt Creator新建项目，把文件都添加进去（所有的.h .cpp .ui .qrc都要添加）。
+  2.用Qt Creator新建项目，把源码文件夹里的所有文件都添加进去（所有的.h .cpp .ui .qrc都要添加）。
   
   3.直接编译运行会报错"terminate called after throwing an instance of 'char const*'"，需要把source文件夹添加到build目录。build目录就是"build-"开头的文件夹，和工程文件夹在同一目录下。
   
